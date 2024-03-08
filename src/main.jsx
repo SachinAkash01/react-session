@@ -1,10 +1,10 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import './index.css'
-import AppEvents from './AppEvents.jsx'
+import AppCounter from './AppCounter.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <AppEvents/>
+    <AppCounter/>
   </React.StrictMode>
 )
