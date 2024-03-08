@@ -1,9 +1,9 @@
 import React from 'react'
-import MyComponent from './components/MyComponent'
+import OnlineShop from './components/OnlineShop'
 
 function App() {
   return (
-    <MyComponent />
+    <OnlineShop />
   )
 }
 
