@@ -1,10 +1,10 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import AppButton from './AppButton.jsx'
+import AppProps from './AppProps.jsx'
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <AppButton />
+    <AppProps/>
   </React.StrictMode>,
 )
