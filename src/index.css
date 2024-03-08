@@ -115,3 +115,8 @@
 .counter-button:hover {
   background-color: hsl(197, 100%, 48%);
 }
+
+.textarea-handler {
+  width: 270px;
+  height: 100px;
+}
