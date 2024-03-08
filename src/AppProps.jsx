@@ -1,7 +1,7 @@
 import React from 'react'
 import Student from './components/Student';
 
-const AppProps = () => {
+function AppProps() {
   return (
     <>
         <Student name="Sachin" age={22} isStudent={true} />
